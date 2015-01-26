@@ -9,9 +9,9 @@ Dynamic Form
 Contribute
 --------------------
 
-  + Issue Tracker:
+  + Issue Tracker: https://github.com/zwidny/dynamic-form/issues
 
-  + Source Code:
+  + Source Code: https://github.com/zwidny/dynamic-form/tree/master
 
 
 Support
